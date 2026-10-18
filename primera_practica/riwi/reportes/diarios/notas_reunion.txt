@@ -1,0 +1,5 @@
+En la operación se concloye que tenemos las siguientes necesidades:
+- Mejora en las estaciones de trabajo para asegurar entregas en tiempos establecidos
+- Bonificaciones y reconocimientos por cumplimiento
+- Mejoras en tecnologías de arquetipizacion
+- Mas tiempo libre en medio de los turnos correspondientes 

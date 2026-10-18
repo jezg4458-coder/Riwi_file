@@ -1,0 +1,1 @@
+Jueves: se actualiza protocolos de seguridad y se aplican bloqueo perimetrales correspondientes

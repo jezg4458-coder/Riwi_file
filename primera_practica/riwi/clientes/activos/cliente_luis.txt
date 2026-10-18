@@ -1,0 +1,4 @@
+Nombre: Luis Lopez.
+Empresa: Carniceria El Veggie.
+Estado: activo.
+luis@example.com

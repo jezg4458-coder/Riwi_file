@@ -1,0 +1,4 @@
+- Prueba de la nueva tecnología de almacenamiento masivo de datos
+- Prueba del despliegue de la web de Ana
+- Sobre la particion sin usar asignada a la clienta Martha, vamos hacer ensayos de infiltración de codigo para mejorar
+la seguridad interna

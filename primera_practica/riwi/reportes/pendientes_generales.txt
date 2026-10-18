@@ -1,0 +1,3 @@
+- Validar posibilidad de reintegro del proyecto de Martha.
+- Actualizar datos de la señora Ana.
+- Consultar clientes antiguos en mora.

@@ -1,0 +1,4 @@
+Número: 002.
+Cliente: Luis Lopez.
+Valor: 750000.
+Estado: pendiente.

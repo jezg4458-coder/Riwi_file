@@ -1,0 +1,1 @@
+Viernes: Se realizan sentencias para extraer información del cierre de facturación del mes anterior. Gerencia recibe la data exitosamente

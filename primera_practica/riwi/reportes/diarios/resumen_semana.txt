@@ -1,0 +1,5 @@
+Lunes: Actualizar información clientes activos e inactivo
+martes: verificar motivo de por el cual el servidor genera un consumo eléctrico amyor al habitual
+Miercoles: se presentó incidente en el clustes de Bogota, no se perdio ningun dato. Problema solucionado el 2 horas
+Jueves: se actualiza protocolos de seguridad y se aplican bloqueo perimetrales correspondientes
+Viernes: Se realizan sentencias para extraer información del cierre de facturación del mes anterior. Gerencia recibe la data exitosamente
